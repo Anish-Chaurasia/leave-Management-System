@@ -1,0 +1,4 @@
+Email 						password
+admin@gmail.com             admin123    Admin
+vivek@thdcihet.ac.in	    vivek123    HOD
+manishk@thdcihet.ac.in      manish123   Staff

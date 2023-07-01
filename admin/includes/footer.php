@@ -1,0 +1,3 @@
+<div class="footer-wrap pd-20 mb-20 card-box">
+				THDC IHET Leave Portal developed by :- <a href="https://linkedin.com/in/sahilmandoliya" target="_blank"><span>Sahil Mandoliya  || </span> </a><a href="https://linkedin.com/in/aashishmishra07" target="_blank"><span>Aashish Mishra  || </span> </a><a href="https://www.linkedin.com/in/anish-chaurasia-985171227/" target="_blank"><span>Anish Chaurasia  || </span> </a><a href="https://www.linkedin.com/in/shubhamgour/" target="_blank"><span>Shubham Gour</span> </a>
+			</div>
